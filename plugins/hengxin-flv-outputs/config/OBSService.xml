@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <Server>
+      <port>30001</port>
+	  <maxlinks>300</maxlinks>
+      <name>OBS视频捕捉客户端</name>
+    </Server>
+    <CenterServer>
+      <ip>47.95.200.44</ip>
+	  <!--<ip>127.0.0.1</ip>--> 
+      <port>20001</port>
+      <name>中心服务器</name>	  
+    </CenterServer>	
+</root>
